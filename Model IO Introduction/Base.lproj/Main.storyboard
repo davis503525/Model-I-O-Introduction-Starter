@@ -17,7 +17,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <sceneKitView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" sceneName="Scene" translatesAutoresizingMaskIntoConstraints="NO" id="0AL-dz-ShH">
+                            <sceneKitView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" sceneName="Scene.scn" translatesAutoresizingMaskIntoConstraints="NO" id="0AL-dz-ShH">
                                 <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                             </sceneKitView>
                             <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="U2p-ls-dpS">
