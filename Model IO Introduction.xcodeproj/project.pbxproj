@@ -12,6 +12,8 @@
 		6041468C1C5496B300E3BDC0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6041468A1C5496B300E3BDC0 /* Main.storyboard */; };
 		6041468E1C5496B300E3BDC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6041468D1C5496B300E3BDC0 /* Assets.xcassets */; };
 		604146911C5496B300E3BDC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6041468F1C5496B300E3BDC0 /* LaunchScreen.storyboard */; };
+		604146991C54976D00E3BDC0 /* Scene.scn in Resources */ = {isa = PBXBuildFile; fileRef = 604146981C54976D00E3BDC0 /* Scene.scn */; };
+		6041469F1C549DF300E3BDC0 /* sphere.obj in Resources */ = {isa = PBXBuildFile; fileRef = 6041469E1C549DF300E3BDC0 /* sphere.obj */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		6041468D1C5496B300E3BDC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		604146901C5496B300E3BDC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		604146921C5496B300E3BDC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		604146981C54976D00E3BDC0 /* Scene.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = Scene.scn; sourceTree = "<group>"; };
+		6041469E1C549DF300E3BDC0 /* sphere.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = sphere.obj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				604146861C5496B300E3BDC0 /* AppDelegate.swift */,
 				604146881C5496B300E3BDC0 /* ViewController.swift */,
 				6041468A1C5496B300E3BDC0 /* Main.storyboard */,
+				604146981C54976D00E3BDC0 /* Scene.scn */,
+				6041469E1C549DF300E3BDC0 /* sphere.obj */,
 				6041468D1C5496B300E3BDC0 /* Assets.xcassets */,
 				6041468F1C5496B300E3BDC0 /* LaunchScreen.storyboard */,
 				604146921C5496B300E3BDC0 /* Info.plist */,
@@ -123,8 +129,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				604146911C5496B300E3BDC0 /* LaunchScreen.storyboard in Resources */,
+				604146991C54976D00E3BDC0 /* Scene.scn in Resources */,
 				6041468E1C5496B300E3BDC0 /* Assets.xcassets in Resources */,
 				6041468C1C5496B300E3BDC0 /* Main.storyboard in Resources */,
+				6041469F1C549DF300E3BDC0 /* sphere.obj in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
