@@ -24,9 +24,9 @@ class ViewController: UIViewController {
         }
         
         self.loadSphereMesh()
+        self.addLight()
         self.addSphereTexture()
         self.smoothSphere()
-        self.addLight()
         self.addSky()
         self.editCamera()
     }
@@ -35,15 +35,15 @@ class ViewController: UIViewController {
         
     }
     
+    func addLight() {
+        
+    }
+    
     func addSphereTexture() {
         
     }
     
     func smoothSphere() {
-        
-    }
-    
-    func addLight() {
         
     }
     
